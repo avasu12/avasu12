@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @avasu12
-- 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning DAX & M-Query
-- 💞️ I’m looking to collaborate on Planisware Enterprise
 - 📫 You can reach me via https://ajayvasu.com/
 
 <!---
