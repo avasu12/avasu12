@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avasu12
+- 👋 Hi, I’m @Ajay Vasu
 - 📫 You can reach me via https://ajayvasu.com/
 
 <!---
